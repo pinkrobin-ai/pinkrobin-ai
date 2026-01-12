@@ -1,7 +1,7 @@
 ![Alt text](banner-pinkrobin.jpeg)
 
 <h1 align="center">Hi, I'm Büşra Şafak Zırhlı! 👋 </h1>
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pinkr0x1k_visitor_badge_simple&left_color=royalblue&right_color=black"  />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pinkrobin-ai_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
 
@@ -12,7 +12,7 @@
 </p>
 
 
-![GitHub Snake](https://raw.githubusercontent.com/pinkr0x1k/pinkr0x1k/refs/heads/output/github-snake-dark.svg)
+![GitHub Snake](https://raw.githubusercontent.com/pinkrobin-ai/pinkrobin-ai/refs/heads/output/github-snake-dark.svg)
 
 
 
@@ -20,7 +20,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
     <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/pinkr0x1k/pinkr0x1k/main/github-metrics.svg">
+        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://github.com/pinkrobin-ai/pinkrobin-ai/main/github-metrics.svg">
     </div>
 
 
