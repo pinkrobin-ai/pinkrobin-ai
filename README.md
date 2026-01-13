@@ -20,7 +20,7 @@
 <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-top: 20px;">
     <!-- Left Column: Metrics -->
     <div style="flex: 1; max-width: 45%;">
-        <img align="left" width="50%" alt="if you see this, it means my metrics are not working" src="https://raw.githubusercontent.com/pinkrobin-ai/pinkrobin-ai/main/github-metrics.svg">
+        <img align="left" width="50%" alt="If you see this, it means my metrics are not working..." src="https://raw.githubusercontent.com/pinkrobin-ai/pinkrobin-ai/main/github-metrics.svg">
     </div>
 
 
@@ -34,6 +34,9 @@
             <a href="https://www.instagram.com/pink.robin" target="_blank" style="text-decoration: none;">
                 <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">
             </a>
+            <a href="https://www.x.com/pinkrobin" target="_blank" style="text-decoration: none;">
+                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" alt="X">
+            </a>
         </p>
         
   <h3>✨ Fun Facts</h3>
@@ -43,7 +46,7 @@
         
   <h3>🧑‍💻 About Me</h3>
         <p>
-            I'm a passionate seinior software developer with a strong background in full-stack development. 
+            I'm a passionate senior software engineer with a strong background in full-stack development. 
             I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
             in physical activities like travelling, or planning my next adventure. 
         </p>
