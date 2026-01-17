@@ -1,6 +1,6 @@
 ![Alt text](banner-pinkrobin.jpeg)
 
-<h1 align="center">Hi, I'm Büşra Şafak Zırhlı! 👋 </h1>
+<h1 align="center">Hi, I'm Şafak! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pinkrobin-ai_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
