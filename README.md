@@ -41,7 +41,12 @@
         
   <h3> Fun Facts</h3>
         <ul>
-            <li> When I'm not debugging something, I'm probably outside chasing light with my camera. I love exploring nature, traveling to new places, and planning my next adventure before the current one even ends. </li>
+            <p> 
+              When I'm not debugging something, I'm probably outside chasing light with my camera. 
+            </p>
+            <p>
+              I love exploring nature, traveling to new places, and planning my next adventure before the current one even ends. 
+            </p>
         </ul>
         
   <h3> About Me</h3>
