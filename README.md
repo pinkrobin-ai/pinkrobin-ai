@@ -1,6 +1,6 @@
 ![Alt text](banner-pinkrobin.jpeg)
 
-<h1 align="center">Hi, I'm Şafak! 👋 </h1>
+<h1 align="center">Hi, I'm Şafak! ✨ </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=pinkrobin-ai_visitor_badge_simple&left_color=royalblue&right_color=black"  />
 
 <h3 align="center">:hammer_and_wrench: Languages and Tools</h3>
@@ -39,20 +39,22 @@
             </a>
         </p>
         
-  <h3>✨ Fun Facts</h3>
+  <h3> Fun Facts</h3>
         <ul>
-            <li>In my free time, I explore the beauty of nature and capture it through my photography on Instagram.</li>
+            <li> When I'm not debugging something, I'm probably outside chasing light with my camera. I love exploring nature, traveling to new places, and planning my next adventure before the current one even ends. </li>
         </ul>
         
-  <h3>🧑‍💻 About Me</h3>
+  <h3> About Me</h3>
         <p>
-            I'm a passionate senior software engineer with a strong background in full-stack development. 
-            I have a keen interest in solving complex problems and building scalable solutions. When I'm not coding, you can find me engaged 
-            in physical activities like travelling, or planning my next adventure. 
+            Senior Software Engineer focused on building systems attackers genuinely dislike.
+            I enjoy designing scalable, resilient architectures and turning complex problems into clean, maintainable solutions.
         </p>
         <p>
-            My journey in tech has led me to work with various cutting-edge technologies and collaborate with amazing teams across different 
-            projects. I’m always eager to learn new things and share my knowledge with the community.
+            Full-stack by title, security-minded by default.  
+            I like shipping things that work, scale, and make sense.
+        </p>
+        <p>
+            Always learning. Always building. Occasionally touching grass.
         </p>
     </div>
 </div>
