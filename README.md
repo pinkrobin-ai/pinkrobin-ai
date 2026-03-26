@@ -41,15 +41,15 @@
           
   <h3><li> About Me 🐣 </li></h3>
         <p>
-            - Senior Software Engineer focused on building systems attackers genuinely dislike.
+            Senior Software Engineer focused on building systems attackers genuinely dislike.
             I enjoy designing scalable, resilient architectures and turning complex problems into clean, maintainable solutions.</li>
         </p>
         <p>
-            - Full-stack by title, security-minded by default.  
+            Full-stack by title, security-minded by default.  
             I like shipping things that work, scale, and make sense.
         </p>
         <p>
-            - Always learning. Always building. Occasionally touching grass.
+            Always learning. Always building. Occasionally touching grass.
         </p>
 
   <h3><li> Fun Facts 🍄 </li></h3>
