@@ -40,6 +40,7 @@
         </p>
           
   <h3><li> About Me 🐣 </li></h3>
+			<ul>
         <p>
             Senior Software Engineer focused on building systems attackers genuinely dislike.
             I enjoy designing scalable, resilient architectures and turning complex problems into clean, maintainable solutions.</li>
@@ -51,7 +52,7 @@
         <p>
             Always learning. Always building. Occasionally touching grass.
         </p>
-
+			</ul>
   <h3><li> Fun Facts 🍄 </li></h3>
         <ul>
             <p> 
