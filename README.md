@@ -39,7 +39,7 @@
             </a>
         </p>
           
-  <h3><li> About Me 🐣 </li></h3>
+  <h3><li> About Me </li></h3>
 			<ul>
         <p>
             Senior Software Engineer focused on building systems attackers genuinely dislike.
@@ -50,10 +50,10 @@
             I like shipping things that work, scale, and make sense.
         </p>
         <p>
-            Always learning. Always building. Occasionally touching grass.
+            Always learning. Always building.
         </p>
 			</ul>
-  <h3><li> Fun Facts 🍄 </li></h3>
+  <h3><li> Fun Facts </li></h3>
         <ul>
             <p> 
               When I'm not debugging something, I'm probably outside chasing light with my camera. 
