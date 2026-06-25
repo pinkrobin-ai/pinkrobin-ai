@@ -30,13 +30,6 @@
             <a href="https://www.linkedin.com/in/busra-safak-zirhli/" target="_blank" style="text-decoration: none;">
                 ✨<img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn">✨
             </a>
-            </a>
-            <a href="https://www.instagram.com/pink.robin" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram">✨
-            </a>
-            <a href="https://www.x.com/pinkrobin" target="_blank" style="text-decoration: none;">
-                <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/twitter.svg" alt="X">✨
-            </a>
         </p>
           
   <h3><li> About Me </li></h3>
